@@ -5,7 +5,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ## Setup
  
 ```
-    $ git clone https://github.com/dinushchathurya/nodejs-ecommerce-api.git
+    $ git clone https://github.com/brianmalani/VanillaMart.git
     $ cd nodejs-ecommerce-api
     $ npm install
 ```
@@ -28,7 +28,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 | name      | Admin          |
 | email     | admin@admin.com|
 | password  | password       |
-| phone     | +947187520     |
+| phone     | +26547187520     |
 | isAdmin   | true           |
 | street    | Main Street    |
 | apartment | Block C        |
@@ -179,7 +179,6 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 	"shippingAddress1" : "No 45,Park Street",
 	"shippingAddress2" : "No 46,Main Street",
 	"city" : "Colombo",
-	"zip" : "10600t",
 	"country" : "Sri Lanka",
 	"phone" : "+94717185748",
 	"user" : "602e9b718e700335d8532b13"
