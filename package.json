@@ -2,15 +2,12 @@
   "name": "nodejs-ecommerce-api",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "start": "node index.js",
     "dev": "nodemon index.js"
-=======
-    "start": "node app.js",
-    "dev": "nodemon app.js"
->>>>>>> e29756419a6846206384e73b54fbf52e7fc5be49
+
+
   },
   "repository": {
     "type": "git",
